@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tbmLsj6MQcU=",
+  "success": true,
+  "projectFilePath": "D:\\mingxuan\\CShap_Project\\EdgeDetection\\EdgeDetection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Weng Ming Xuan\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.3\\microsoft.win32.systemevents.9.0.3.nupkg.sha512",
+    "C:\\Users\\Weng Ming Xuan\\.nuget\\packages\\system.drawing.common\\9.0.3\\system.drawing.common.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
