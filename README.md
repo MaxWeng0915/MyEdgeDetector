@@ -18,7 +18,7 @@ The following UML diagram illustrates the relationship between the core classes:
 
 ## How to Run
 
-1. Make sure you have .NET 9.0 SDK installed
+1. Make sure .NET 9.0 SDK installed
 2. Build and run the project:
 
 ```bash
